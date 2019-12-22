@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aang",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/1122/187741-avatar_the_legend_of_aang_ps2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Angelica Pickles",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/7383/1810812-angelicapro.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Backpack",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/5768/778378-backpack.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Barnacle Boy",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/966/477950-blaubarschbube2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Boots the Monkey",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/5768/764402-bootsthemonkey.jpg"
+  },
+  {
+    "id": 6,
+    "name": "CatDog",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/5768/538345-catdog.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chuckie Finster",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/3698/375861-chuckie4.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cosmo",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/5768/701467-cosmo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dil Pickles",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/30/304212/2876434-dil-about-web.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dora",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/5768/625442-dora.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Jimmy Neutron",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/0/1697/267605-jimmy_13_1_.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Diego",
+    "image": "https://giantbomb1.cbsistatic.com/uploads/square_small/1/14761/777399-go_diego_go.jpg"
+  }
+]
